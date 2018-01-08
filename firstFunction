@@ -1,0 +1,14 @@
+// Write your foodDemand function below.
+// Last hint: In your reusable block of code, end each line
+// with a semicolon (;)
+
+
+var foodDemand = function(food) {
+    console.log("I want to eat" + " " + food);
+}
+
+foodDemand("Banana"); 
+
+// foodDemand is the variable name. This variable is assigned to a function called food. The function called food will print
+//the string "I want to eat 'whichever' food"
+//then you call the variable(which is assigned to the function) foodDemand and put the food in the parenthesis. 
