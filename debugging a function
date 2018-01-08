@@ -1,0 +1,18 @@
+//debugging a function
+// Badly written function with syntax errors!
+
+greeting var func{name}(console.log(name)))} 
+
+// Nicely written function:
+var calculate = function (number) {
+    var val = number * 10;
+    console.log(val);
+};
+
+// My fixed function. 
+
+var greeting = function (name) {
+    console.log(name)
+}
+
+greeting("Rebecca"); 
