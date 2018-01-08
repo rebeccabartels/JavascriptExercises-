@@ -1,0 +1,7 @@
+var orangeCost = function(price) {
+    var cost = price * 5;
+    return(cost)
+};
+
+orangeCost(5); 
+
